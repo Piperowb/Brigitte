@@ -1,0 +1,50 @@
+body {
+ 
+  background-image: url("../img/b1.png");
+}
+
+footer {
+ 
+  background-color: rgb(216, 216, 216);
+}
+
+  
+  h1 {
+    color: navy;
+    margin-left: 20px;
+  }
+
+  nav {
+    margin: 27px auto 0;
+  
+    position: relative;
+    width: 1800px;
+    height: 70px;
+    background-color: #fafcff;
+    border-radius: 12px;
+    
+  }
+
+  nav li{
+    display:inline-block;
+    width:13%;
+    padding:10px 3px;
+    text-align:center;
+    color:#fff;
+    }
+
+  .button_menu {
+    background-color: #cfd1da;
+    border: none;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 8px 2px;
+    cursor: pointer;
+    margin-left: 20px;
+  }
+  
